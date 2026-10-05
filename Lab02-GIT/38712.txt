@@ -1,1 +1,2 @@
 "name :{yaren}"
+university:PJATK
